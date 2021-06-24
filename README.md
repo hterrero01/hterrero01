@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hterrero01
+- 👋 Hi, I’m @hterrero01 / Hector Terrero
 - 👀 I’m interested in iOS Development with specific interest in AR, VR and overall Mobile Apps.
 - 🌱 I’m currently learning ARKit, SCENEKit, Core ML. RealityKit.
 - 💞️ I’m looking to collaborate on exploratory projects for academia purposes.
